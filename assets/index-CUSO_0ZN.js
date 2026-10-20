@@ -204,7 +204,7 @@ Error generating stack: `+i.message+`
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
- */const Tm=ve("Zap",[["path",{d:"M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z",key:"1xq2db"}]]),Mm={name:"胖兔空间",en:"FAT RABBIT SPACE",tagline:"收藏喜欢的链接，共享我的资源，分发我的手搓玩意儿。一个小而精致的个人门户。",author:"MARIO",since:2026,avatar:"/avatar.jpg",bgm:"/bgm.mp3",bgmName:"许愿池的希腊少女(R&B版) - 茹酸菌",qrHome:"/qr-home.png",qrDouyin:"/qr-douyin.png",shareCode:"EXSLQRNPST"},Om={name:"易用 TV 助手",en:"YIYONG TV ASSISTANT",status:"开发中",desc:"我做的电视盒子小工具，介绍、更新日志与 APK 下载将在这里上线。"},Dm=`私人用资源库链接，分享收集不易，仅供学习探讨使用。
+ */const Tm=ve("Zap",[["path",{d:"M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z",key:"1xq2db"}]]),Mm={name:"胖兔空间",en:"FAT RABBIT SPACE",tagline:"收藏喜欢的链接，共享我的资源，分发我的手搓玩意儿。一个小而精致的个人门户。",author:"MARIO",since:2026,avatar:"/avatar.jpg",bgm:"/bgm.mp3",bgmName:"许愿池的希腊少女(R&B版) - 茹酸菌",qrHome:"/qr-home.png",qrDouyin:"/qr-douyin.png",shareCode:""},Om={name:"易用 TV 助手",en:"YIYONG TV ASSISTANT",status:"开发中",desc:"我做的电视盒子小工具，介绍、更新日志与 APK 下载将在这里上线。"},Dm=`私人用资源库链接，分享收集不易，仅供学习探讨使用。
 请不要恶意举报或者是投诉！如果喜欢请收藏，谢谢支持。
 所有网站各类风险及法律责任由使用者自负！！！
 如不同意请立即关闭网站！！！！
