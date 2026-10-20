@@ -6,57 +6,57 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://pangtugg.github.io/links</loc>
+    <loc>https://pangtugg.github.io/links/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pangtugg.github.io/resources</loc>
+    <loc>https://pangtugg.github.io/resources/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pangtugg.github.io/about</loc>
+    <loc>https://pangtugg.github.io/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pangtugg.github.io/m/tv</loc>
+    <loc>https://pangtugg.github.io/m/tv/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://pangtugg.github.io/m/tools</loc>
+    <loc>https://pangtugg.github.io/m/tools/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pangtugg.github.io/m/media</loc>
+    <loc>https://pangtugg.github.io/m/media/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pangtugg.github.io/m/disk</loc>
+    <loc>https://pangtugg.github.io/m/disk/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pangtugg.github.io/m/pc</loc>
+    <loc>https://pangtugg.github.io/m/pc/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pangtugg.github.io/m/net</loc>
+    <loc>https://pangtugg.github.io/m/net/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pangtugg.github.io/m/ext</loc>
+    <loc>https://pangtugg.github.io/m/ext/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pangtugg.github.io/m/misc</loc>
+    <loc>https://pangtugg.github.io/m/misc/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
