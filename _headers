@@ -1,0 +1,23 @@
+# Cloudflare Pages 缓存策略（仅 Pages 生效，GitHub Pages / 其它托管会忽略）
+# 目标：二次访问几乎不产生网络请求，弱网首屏也更快
+
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/bgm.mp3
+  Cache-Control: public, max-age=2592000
+
+/og-card.png
+  Cache-Control: public, max-age=604800
+/avatar.jpg
+  Cache-Control: public, max-age=604800
+/qr-home.png
+  Cache-Control: public, max-age=604800
+/qr-douyin.png
+  Cache-Control: public, max-age=604800
+/favicon.svg
+  Cache-Control: public, max-age=604800
+
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
