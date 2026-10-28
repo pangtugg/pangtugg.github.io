@@ -9,7 +9,7 @@
 
 /og-card.png
   Cache-Control: public, max-age=604800
-/avatar.jpg
+/avatar.png
   Cache-Control: public, max-age=604800
 /qr-home.png
   Cache-Control: public, max-age=604800
