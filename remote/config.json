@@ -1,0 +1,67 @@
+{
+  "version": 2,
+  "shells": {
+    "film": [
+      "com.fongmi.android.tv",
+      "com.fongmi.android.lite",
+      "com.github.tvbox.osc",
+      "com.github.tvbox.osc.jun",
+      "com.github.tvbox.osdX",
+      "com.mygithub0.tvbox0.osdX",
+      "com.q215613905.tvbox",
+      "org.tvbox.tvbox",
+      "com.tvbox.tv",
+      "com.tk.quickbox",
+      "com.takagen.tvbox"
+    ],
+    "live": [
+      "com.github.mytv.android",
+      "com.lizongying.mytv"
+    ],
+    "hints": [
+      "tvbox",
+      "影视",
+      "fongmi"
+    ]
+  },
+  "sources": [
+    {
+      "no": "1",
+      "kind": 0,
+      "mytvOnly": false,
+      "urls": [
+        "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/1.json",
+        "https://raw.githubusercontent.com/niubihu1/tvbox/main/1.json",
+        "https://ghfast.top/https://raw.githubusercontent.com/niubihu1/tvbox/main/1.json"
+      ]
+    },
+    {
+      "no": "2",
+      "kind": 1,
+      "mytvOnly": false,
+      "urls": [
+        "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/live.txt",
+        "https://raw.githubusercontent.com/niubihu1/tvbox/main/live.txt",
+        "https://ghfast.top/https://raw.githubusercontent.com/niubihu1/tvbox/main/live.txt"
+      ]
+    },
+    {
+      "no": "3",
+      "kind": 1,
+      "mytvOnly": false,
+      "urls": [
+        "https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+        "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+        "https://ghfast.top/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u"
+      ]
+    },
+    {
+      "no": "4",
+      "kind": 1,
+      "mytvOnly": true,
+      "urls": [
+        "https://gitee.com/mytv-android/iptv-api/raw/master/output/webview.m3u"
+      ]
+    }
+  ]
+}
