@@ -30,9 +30,9 @@
       "kind": 0,
       "mytvOnly": false,
       "urls": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/1.json",
-        "https://raw.githubusercontent.com/niubihu1/tvbox/main/1.json",
-        "https://ghfast.top/https://raw.githubusercontent.com/niubihu1/tvbox/main/1.json"
+        "https://cdn.jsdelivr.net/gh/niubihu1/tvbox@main/1.json",
+        "https://ghfast.top/https://raw.githubusercontent.com/niubihu1/tvbox/main/1.json",
+        "https://raw.githubusercontent.com/niubihu1/tvbox/main/1.json"
       ]
     },
     {
@@ -40,9 +40,9 @@
       "kind": 1,
       "mytvOnly": false,
       "urls": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/live.txt",
-        "https://raw.githubusercontent.com/niubihu1/tvbox/main/live.txt",
-        "https://ghfast.top/https://raw.githubusercontent.com/niubihu1/tvbox/main/live.txt"
+        "https://ghfast.top/https://raw.githubusercontent.com/niubihu1/tvbox/main/live.txt",
+        "https://cdn.jsdelivr.net/gh/niubihu1/tvbox@main/live.txt",
+        "https://raw.githubusercontent.com/niubihu1/tvbox/main/live.txt"
       ]
     },
     {
@@ -50,9 +50,9 @@
       "kind": 1,
       "mytvOnly": false,
       "urls": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-        "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-        "https://ghfast.top/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u"
+        "https://cdn.jsdelivr.net/gh/Kimentanm/aptv@master/m3u/iptv.m3u",
+        "https://ghfast.top/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+        "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u"
       ]
     },
     {
@@ -61,6 +61,32 @@
       "mytvOnly": true,
       "urls": [
         "https://gitee.com/mytv-android/iptv-api/raw/master/output/webview.m3u"
+      ]
+    },
+    {
+      "no": "5",
+      "kind": 1,
+      "mytvOnly": false,
+      "urls": [
+        "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
+        "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u"
+      ]
+    },
+    {
+      "no": "6",
+      "kind": 1,
+      "mytvOnly": false,
+      "urls": [
+        "https://iptv-org.github.io/iptv/countries/cn.m3u"
+      ]
+    },
+    {
+      "no": "7",
+      "kind": 1,
+      "mytvOnly": false,
+      "urls": [
+        "https://cdn.jsdelivr.net/gh/bestK/iptv@main/iptv.m3u",
+        "https://raw.githubusercontent.com/bestK/iptv/main/iptv.m3u"
       ]
     }
   ]
