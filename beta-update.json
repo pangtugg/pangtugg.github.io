@@ -1,16 +1,13 @@
 {
   "version": 1,
   "channel": "beta",
-  "versionName": "1.1",
-  "versionCode": 69,
-  "stamp": "20261123d",
-  "apk": "https://pangtugg-d2gmuziav517ab22a-1256938175.tcloudbaseapp.com/downloads/easytv-1.1-20261123d.apk",
-  "size": 5940549,
-  "sha256": "0149dd69ed8593249b06831cf0df288aa566eaf1cc5d2393e5bc14b6d344724f",
+  "versionName": "1.2",
+  "versionCode": 70,
+  "stamp": "20261124a",
+  "apk": "https://pangtugg-d2gmuziav517ab22a-1256938175.tcloudbaseapp.com/downloads/easytv-1.2-20261124a.apk",
+  "size": 5948741,
+  "sha256": "29aaeabb0b11b9fea6149d56225a4a6445e710b5263e920c85a79a9ac38f9d57",
   "notes": [
-    "应用商店按功能分类，清理低星与失效条目",
-    "检查更新与下载可随时中断",
-    "界面配色统一，更新页操作更顺手",
-    "VIP 专属区暂未对外开放"
+    "优化下载与更新功能"
   ]
 }
