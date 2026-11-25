@@ -2,11 +2,11 @@
   "version": 1,
   "channel": "beta",
   "versionName": "1.2",
-  "versionCode": 71,
-  "stamp": "20261125a",
-  "apk": "https://pangtugg-d2gmuziav517ab22a-1256938175.tcloudbaseapp.com/downloads/easytv-1.2-20261125a.apk",
-  "size": 5952893,
-  "sha256": "0a780c42f84496669d585c7154f12accdd1bd04fdf0b3858a52c233997b4ba7d",
+  "versionCode": 72,
+  "stamp": "20261125b",
+  "apk": "https://pangtugg-d2gmuziav517ab22a-1256938175.tcloudbaseapp.com/downloads/easytv-1.2-20261125b.apk",
+  "size": 5948798,
+  "sha256": "03050817091dc2d0792506a9e1872b192dbd684d9c28cf3028a493c954bf2df9",
   "notes": [
     "优化下载与更新功能"
   ]
