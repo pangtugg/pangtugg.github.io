@@ -2,13 +2,14 @@
   "version": 1,
   "channel": "beta",
   "versionName": "1.2",
-  "versionCode": 75,
-  "stamp": "20261126b",
-  "apk": "https://pangtugg-d2gmuziav517ab22a-1256938175.tcloudbaseapp.com/downloads/easytv-1.2-20261126b.apk",
-  "size": 5952950,
-  "sha256": "9b2f7e75697d53e072e476b3ffd89806271c130a3caad16b506dbcd94faa159c",
+  "versionCode": 76,
+  "stamp": "20261126c",
+  "apk": "https://pangtugg-d2gmuziav517ab22a-1256938175.tcloudbaseapp.com/downloads/easytv-1.2-20261126c.apk",
+  "size": 5952894,
+  "sha256": "ba2519727f916b9186375185fed3ba6eeb8641b1fd24befa33006d17f529a85b",
   "notes": [
     "优化应用商店功能，修正已知问题。",
-    "商店新增应用兼容性检测，设备不支持的应用会置灰提示，仍可选择强制安装。"
+    "商店新增应用兼容性检测，设备不支持的应用会置灰提示，仍可选择强制安装。",
+    "镜像加速设置支持自定义地址与测速排序，商店与检查更新统一入口。"
   ]
 }
